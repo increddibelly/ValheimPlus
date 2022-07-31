@@ -393,7 +393,7 @@ You can turn off and on every feature of V+ via the config file, by default all 
 
 By default, the "BepInEx\config\valheim_plus.cfg" is created when you start your game or server the first time.
 
-The configuration of a older version of Valheim Plus will automatically be updated to a newer version. [Alternatively you can use this website](https://valheim-plus-config.web.app/) .
+The configuration of a older version of Valheim Plus will automatically be updated to a newer version.
 
 When hosting a server, the server configuration file overwrites the client's configuration file on connect if you have the Server section and the serverSyncsConfig option enabled. 
 
